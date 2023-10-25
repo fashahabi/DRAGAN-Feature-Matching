@@ -22,7 +22,7 @@ tensorflow
 
 ta library [https://github.com/bukosabino/ta]
 
-We appreciate the efforts of the TA developers, which is a Technical Analysis library sound for feature engineering from financial time series datasets (Open, Close, High, Low, Volume). It is built on Pandas and Numpy.
+We appreciate the efforts of the TA developers, which is a Technical Analysis library for feature engineering from financial time series datasets (Open, Close, High, Low, Volume). It is built on Pandas and Numpy.
 
 ## Contributing
 
