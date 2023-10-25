@@ -26,7 +26,7 @@ We appreciate the efforts of the TA developers, which is a Technical Analysis li
 
 ## Contributing
 
-We welcome contributions to enhance the functionality and performance of the models. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+We welcome contributions to enhance the functionality and performance of the models. If you have any suggestions, bug reports, or feature requests, please contact me.
 
 ## Citation
 @misc{nejad2023stock,
