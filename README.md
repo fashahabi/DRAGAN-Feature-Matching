@@ -12,7 +12,7 @@ This repository contains the Python source code for the paper:tock market foreca
 ## Repository Structure
 
 - `data/`: This directory contains the stocks datasets used for training and testing.
-- `models/`: This directory contains trained models.
+- `Model_trained/`: This directory contains trained models.
 
 ## Requirements
 
