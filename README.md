@@ -29,11 +29,7 @@ We appreciate the efforts of the TA developers, which is a Technical Analysis li
 We welcome contributions to enhance the functionality and performance of the models. If you have any suggestions, bug reports, or feature requests, please contact me.
 
 ## Citation
-@misc{nejad2023stock,
-      title={Stock market forecasting using DRAGAN and feature matching},       
-      author={Fateme Shahabi Nejad and Mohammad Mehdi   Ebadzadeh},
-      year={2023},
-     }
+@article{Nejad_2024, title={Stock market forecasting using DRAGAN and feature matching}, volume={244}, ISSN={0957-4174}, url={http://dx.doi.org/10.1016/j.eswa.2023.122952}, DOI={10.1016/j.eswa.2023.122952}, journal={Expert Systems with Applications}, publisher={Elsevier BV}, author={Shahabi Nejad, Fateme and Ebadzadeh, Mohammad Mehdi}, year={2024}, month=jun, pages={122952} }
 
 ## Contact
         
